@@ -8,7 +8,7 @@ ip = "the.ip.add.ress"
 sdeeUrl = "https://$ip/cgi-bin/sdee-server"
 sdeeUser = "username"
 sdeePassword = "password"
-
+# a change
 
 def getSubscription(url, user, password):
     "Establishes the re-usable session to the IPS module"
